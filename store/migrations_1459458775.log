@@ -1,0 +1,1446 @@
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\local_url_bbcode.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_12_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc4.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_8.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_8_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_pl1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc4.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_5.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_5_rc1part2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_5_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_4.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_4_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_3_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_2_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_2_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_1_rc1.
+[DEBUG] Förflyttningen är redan installerad (skipped): \phpbb\db\migration\data\v30x\release_3_0_0
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\local_url_bbcode.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_12_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc4.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_8.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_8_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_pl1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc4.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_5.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_5_rc1part2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_5_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_4.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_4_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_3_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_2_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_2_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_1_rc1.
+[DEBUG] Förflyttningen är redan installerad (skipped): \phpbb\db\migration\data\v30x\release_3_0_1_rc1
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\local_url_bbcode.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_12_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc4.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_8.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_8_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_pl1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc4.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_5.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_5_rc1part2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_5_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_4.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_4_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_3_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_2_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_2_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_1.
+[DEBUG] Förflyttningen är redan installerad (skipped): \phpbb\db\migration\data\v30x\release_3_0_1
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\local_url_bbcode.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_12_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc4.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_8.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_8_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_pl1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc4.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_5.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_5_rc1part2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_5_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_4.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_4_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_3_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_2_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_2_rc1.
+[DEBUG] Förflyttningen är redan installerad (skipped): \phpbb\db\migration\data\v30x\release_3_0_2_rc1
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\local_url_bbcode.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_12_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc4.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_8.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_8_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_pl1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc4.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_5.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_5_rc1part2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_5_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_4.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_4_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_3_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_2_rc2.
+[DEBUG] Förflyttningen är redan installerad (skipped): \phpbb\db\migration\data\v30x\release_3_0_2_rc2
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\local_url_bbcode.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_12_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc4.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_8.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_8_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_pl1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc4.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_5.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_5_rc1part2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_5_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_4.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_4_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_3_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_2.
+[DEBUG] Förflyttningen är redan installerad (skipped): \phpbb\db\migration\data\v30x\release_3_0_2
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\local_url_bbcode.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_12_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc4.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_8.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_8_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_pl1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc4.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_5.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_5_rc1part2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_5_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_4.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_4_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_3_rc1.
+[DEBUG] Förflyttningen är redan installerad (skipped): \phpbb\db\migration\data\v30x\release_3_0_3_rc1
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\local_url_bbcode.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_12_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc4.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_8.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_8_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_pl1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc4.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_5.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_5_rc1part2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_5_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_4.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_4_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_3.
+[DEBUG] Förflyttningen är redan installerad (skipped): \phpbb\db\migration\data\v30x\release_3_0_3
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\local_url_bbcode.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_12_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc4.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_8.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_8_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_pl1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc4.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_5.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_5_rc1part2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_5_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_4.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_4_rc1.
+[DEBUG] Förflyttningen är redan installerad (skipped): \phpbb\db\migration\data\v30x\release_3_0_4_rc1
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\local_url_bbcode.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_12_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc4.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_8.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_8_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_pl1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc4.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_5.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_5_rc1part2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_5_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_4.
+[DEBUG] Förflyttningen är redan installerad (skipped): \phpbb\db\migration\data\v30x\release_3_0_4
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\local_url_bbcode.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_12_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc4.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_8.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_8_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_pl1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc4.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_5.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_5_rc1part2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_5_rc1.
+[DEBUG] Förflyttningen är redan installerad (skipped): \phpbb\db\migration\data\v30x\release_3_0_5_rc1
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\local_url_bbcode.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_12_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc4.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_8.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_8_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_pl1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc4.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_5.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_5_rc1part2.
+[DEBUG] Förflyttningen är redan installerad (skipped): \phpbb\db\migration\data\v30x\release_3_0_5_rc1part2
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\local_url_bbcode.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_12_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc4.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_8.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_8_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_pl1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc4.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_5.
+[DEBUG] Förflyttningen är redan installerad (skipped): \phpbb\db\migration\data\v30x\release_3_0_5
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\local_url_bbcode.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_12_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc4.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_8.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_8_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_pl1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc4.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc1.
+[DEBUG] Förflyttningen är redan installerad (skipped): \phpbb\db\migration\data\v30x\release_3_0_6_rc1
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\local_url_bbcode.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_12_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc4.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_8.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_8_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_pl1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc4.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc2.
+[DEBUG] Förflyttningen är redan installerad (skipped): \phpbb\db\migration\data\v30x\release_3_0_6_rc2
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\local_url_bbcode.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_12_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc4.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_8.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_8_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_pl1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc4.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc3.
+[DEBUG] Förflyttningen är redan installerad (skipped): \phpbb\db\migration\data\v30x\release_3_0_6_rc3
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\local_url_bbcode.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_12_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc4.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_8.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_8_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_pl1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6_rc4.
+[DEBUG] Förflyttningen är redan installerad (skipped): \phpbb\db\migration\data\v30x\release_3_0_6_rc4
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\local_url_bbcode.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_12_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc4.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_8.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_8_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_pl1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_6.
+[DEBUG] Förflyttningen är redan installerad (skipped): \phpbb\db\migration\data\v30x\release_3_0_6
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\local_url_bbcode.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_12_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc4.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_8.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_8_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_pl1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_rc1.
+[DEBUG] Förflyttningen är redan installerad (skipped): \phpbb\db\migration\data\v30x\release_3_0_7_rc1
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\local_url_bbcode.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_12_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc4.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_8.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_8_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_pl1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_rc2.
+[DEBUG] Förflyttningen är redan installerad (skipped): \phpbb\db\migration\data\v30x\release_3_0_7_rc2
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\local_url_bbcode.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_12_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc4.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_8.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_8_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_pl1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7.
+[DEBUG] Förflyttningen är redan installerad (skipped): \phpbb\db\migration\data\v30x\release_3_0_7
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\local_url_bbcode.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_12_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc4.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_8.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_8_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_7_pl1.
+[DEBUG] Förflyttningen är redan installerad (skipped): \phpbb\db\migration\data\v30x\release_3_0_7_pl1
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\local_url_bbcode.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_12_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc4.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_8.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_8_rc1.
+[DEBUG] Förflyttningen är redan installerad (skipped): \phpbb\db\migration\data\v30x\release_3_0_8_rc1
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\local_url_bbcode.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_12_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc4.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_8.
+[DEBUG] Förflyttningen är redan installerad (skipped): \phpbb\db\migration\data\v30x\release_3_0_8
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\local_url_bbcode.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_12_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc4.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc1.
+[DEBUG] Förflyttningen är redan installerad (skipped): \phpbb\db\migration\data\v30x\release_3_0_9_rc1
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\local_url_bbcode.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_12_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc4.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc2.
+[DEBUG] Förflyttningen är redan installerad (skipped): \phpbb\db\migration\data\v30x\release_3_0_9_rc2
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\local_url_bbcode.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_12_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc4.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc3.
+[DEBUG] Förflyttningen är redan installerad (skipped): \phpbb\db\migration\data\v30x\release_3_0_9_rc3
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\local_url_bbcode.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_12_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9_rc4.
+[DEBUG] Förflyttningen är redan installerad (skipped): \phpbb\db\migration\data\v30x\release_3_0_9_rc4
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\local_url_bbcode.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_12_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_9.
+[DEBUG] Förflyttningen är redan installerad (skipped): \phpbb\db\migration\data\v30x\release_3_0_9
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\local_url_bbcode.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_12_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc1.
+[DEBUG] Förflyttningen är redan installerad (skipped): \phpbb\db\migration\data\v30x\release_3_0_10_rc1
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\local_url_bbcode.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_12_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc2.
+[DEBUG] Förflyttningen är redan installerad (skipped): \phpbb\db\migration\data\v30x\release_3_0_10_rc2
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\local_url_bbcode.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_12_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10_rc3.
+[DEBUG] Förflyttningen är redan installerad (skipped): \phpbb\db\migration\data\v30x\release_3_0_10_rc3
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\local_url_bbcode.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_12_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_10.
+[DEBUG] Förflyttningen är redan installerad (skipped): \phpbb\db\migration\data\v30x\release_3_0_10
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\local_url_bbcode.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_12_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc1.
+[DEBUG] Förflyttningen är redan installerad (skipped): \phpbb\db\migration\data\v30x\release_3_0_11_rc1
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\local_url_bbcode.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_12_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11_rc2.
+[DEBUG] Förflyttningen är redan installerad (skipped): \phpbb\db\migration\data\v30x\release_3_0_11_rc2
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\local_url_bbcode.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_12_rc1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_11.
+[DEBUG] Förflyttningen är redan installerad (skipped): \phpbb\db\migration\data\v30x\release_3_0_11
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\local_url_bbcode.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_12_rc1.
+[DEBUG] Förflyttningen är redan installerad (skipped): \phpbb\db\migration\data\v30x\release_3_0_12_rc1
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\local_url_bbcode.
+[DEBUG] Installerar Schema: \phpbb\db\migration\data\v30x\local_url_bbcode.
+[INFO] Installerat Schema: \phpbb\db\migration\data\v30x\local_url_bbcode; Tid: 0.00 sekunder
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\local_url_bbcode.
+[DEBUG] Installerar Data: \phpbb\db\migration\data\v30x\local_url_bbcode.
+[INFO] Installerad Data: \phpbb\db\migration\data\v30x\local_url_bbcode; Tid: 0.00 sekunder
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_12.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_12_rc3.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_12_rc2.
+[DEBUG] Förflyttningen är redan installerad (skipped): \phpbb\db\migration\data\v30x\release_3_0_12_rc2
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_12.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_12_rc3.
+[DEBUG] Förflyttningen är redan installerad (skipped): \phpbb\db\migration\data\v30x\release_3_0_12_rc3
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v30x\release_3_0_12.
+[DEBUG] Förflyttningen är redan installerad (skipped): \phpbb\db\migration\data\v30x\release_3_0_12
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\acp_style_components_module.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\dev.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\extensions.
+[DEBUG] Installerar Schema: \phpbb\db\migration\data\v310\extensions.
+[INFO] Installerat Schema: \phpbb\db\migration\data\v310\extensions; Tid: 0.01 sekunder
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\acp_style_components_module.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\dev.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\extensions.
+[DEBUG] Installerar Data: \phpbb\db\migration\data\v310\extensions.
+[INFO] Installerad Data: \phpbb\db\migration\data\v310\extensions; Tid: 0.23 sekunder
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\acp_style_components_module.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\dev.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\style_update_p2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\style_update_p1.
+[DEBUG] Installerar Schema: \phpbb\db\migration\data\v310\style_update_p1.
+[INFO] Installerat Schema: \phpbb\db\migration\data\v310\style_update_p1; Tid: 0.11 sekunder
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\acp_style_components_module.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\dev.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\style_update_p2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\style_update_p1.
+[DEBUG] Installerar Data: \phpbb\db\migration\data\v310\style_update_p1.
+[INFO] Installerad Data: \phpbb\db\migration\data\v310\style_update_p1; Tid: 0.01 sekunder
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\acp_style_components_module.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\dev.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\style_update_p2.
+[DEBUG] Installerar Schema: \phpbb\db\migration\data\v310\style_update_p2.
+[INFO] Installerat Schema: \phpbb\db\migration\data\v310\style_update_p2; Tid: 0.62 sekunder
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\acp_style_components_module.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\dev.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\style_update_p2.
+[DEBUG] Installerar Data: \phpbb\db\migration\data\v310\style_update_p2.
+[INFO] Installerad Data: \phpbb\db\migration\data\v310\style_update_p2; Tid: 0.00 sekunder
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\acp_style_components_module.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\dev.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\timezone_p2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\timezone.
+[DEBUG] Installerar Schema: \phpbb\db\migration\data\v310\timezone.
+[INFO] Installerat Schema: \phpbb\db\migration\data\v310\timezone; Tid: 0.05 sekunder
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\acp_style_components_module.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\dev.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\timezone_p2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\timezone.
+[DEBUG] Installerar Data: \phpbb\db\migration\data\v310\timezone.
+[INFO] Installerad Data: \phpbb\db\migration\data\v310\timezone; Tid: 0.01 sekunder
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\acp_style_components_module.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\dev.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\timezone_p2.
+[DEBUG] Installerar Schema: \phpbb\db\migration\data\v310\timezone_p2.
+[INFO] Installerat Schema: \phpbb\db\migration\data\v310\timezone_p2; Tid: 0.03 sekunder
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\acp_style_components_module.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\dev.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\timezone_p2.
+[DEBUG] Installerar Data: \phpbb\db\migration\data\v310\timezone_p2.
+[INFO] Installerad Data: \phpbb\db\migration\data\v310\timezone_p2; Tid: 0.00 sekunder
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\acp_style_components_module.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\dev.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\reported_posts_display.
+[DEBUG] Installerar Schema: \phpbb\db\migration\data\v310\reported_posts_display.
+[INFO] Installerat Schema: \phpbb\db\migration\data\v310\reported_posts_display; Tid: 0.05 sekunder
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\acp_style_components_module.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\dev.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\reported_posts_display.
+[DEBUG] Installerar Data: \phpbb\db\migration\data\v310\reported_posts_display.
+[INFO] Installerad Data: \phpbb\db\migration\data\v310\reported_posts_display; Tid: 0.00 sekunder
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\acp_style_components_module.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\dev.
+[DEBUG] Förflyttningen är redan installerad (skipped): \phpbb\db\migration\data\v310\migrations_table
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\acp_style_components_module.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\dev.
+[DEBUG] Installerar Schema: \phpbb\db\migration\data\v310\dev.
+[INFO] Installerat Schema: \phpbb\db\migration\data\v310\dev; Tid: 0.19 sekunder
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\acp_style_components_module.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\dev.
+[DEBUG] Installerar Data: \phpbb\db\migration\data\v310\dev.
+[INFO] Installerad Data: \phpbb\db\migration\data\v310\dev; Tid: 0.32 sekunder
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\acp_style_components_module.
+[DEBUG] Installerar Schema: \phpbb\db\migration\data\v310\acp_style_components_module.
+[INFO] Installerat Schema: \phpbb\db\migration\data\v310\acp_style_components_module; Tid: 0.00 sekunder
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\acp_style_components_module.
+[DEBUG] Installerar Data: \phpbb\db\migration\data\v310\acp_style_components_module.
+[INFO] Installerad Data: \phpbb\db\migration\data\v310\acp_style_components_module; Tid: 0.01 sekunder
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\allow_cdn.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\jquery_update.
+[DEBUG] Installerar Schema: \phpbb\db\migration\data\v310\jquery_update.
+[INFO] Installerat Schema: \phpbb\db\migration\data\v310\jquery_update; Tid: 0.00 sekunder
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\allow_cdn.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\jquery_update.
+[DEBUG] Installerar Data: \phpbb\db\migration\data\v310\jquery_update.
+[INFO] Installerad Data: \phpbb\db\migration\data\v310\jquery_update; Tid: 0.00 sekunder
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\allow_cdn.
+[DEBUG] Installerar Schema: \phpbb\db\migration\data\v310\allow_cdn.
+[INFO] Installerat Schema: \phpbb\db\migration\data\v310\allow_cdn; Tid: 0.00 sekunder
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\allow_cdn.
+[DEBUG] Installerar Data: \phpbb\db\migration\data\v310\allow_cdn.
+[INFO] Installerad Data: \phpbb\db\migration\data\v310\allow_cdn; Tid: 0.00 sekunder
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Installerar Schema: \phpbb\db\migration\data\v310\auth_provider_oauth.
+[INFO] Installerat Schema: \phpbb\db\migration\data\v310\auth_provider_oauth; Tid: 0.02 sekunder
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Installerar Data: \phpbb\db\migration\data\v310\auth_provider_oauth.
+[INFO] Installerad Data: \phpbb\db\migration\data\v310\auth_provider_oauth; Tid: 0.01 sekunder
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\avatars.
+[DEBUG] Installerar Schema: \phpbb\db\migration\data\v310\avatars.
+[INFO] Installerat Schema: \phpbb\db\migration\data\v310\avatars; Tid: 0.09 sekunder
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\avatars.
+[DEBUG] Installerar Data: \phpbb\db\migration\data\v310\avatars.
+[INFO] Installerad Data: \phpbb\db\migration\data\v310\avatars; Tid: 0.00 sekunder
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Installerar Schema: \phpbb\db\migration\data\v310\boardindex.
+[INFO] Installerat Schema: \phpbb\db\migration\data\v310\boardindex; Tid: 0.00 sekunder
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Installerar Data: \phpbb\db\migration\data\v310\boardindex.
+[INFO] Installerad Data: \phpbb\db\migration\data\v310\boardindex; Tid: 0.00 sekunder
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\config_db_text.
+[DEBUG] Installerar Schema: \phpbb\db\migration\data\v310\config_db_text.
+[INFO] Installerat Schema: \phpbb\db\migration\data\v310\config_db_text; Tid: 0.00 sekunder
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\config_db_text.
+[DEBUG] Installerar Data: \phpbb\db\migration\data\v310\config_db_text.
+[INFO] Installerad Data: \phpbb\db\migration\data\v310\config_db_text; Tid: 0.00 sekunder
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\forgot_password.
+[DEBUG] Installerar Schema: \phpbb\db\migration\data\v310\forgot_password.
+[INFO] Installerat Schema: \phpbb\db\migration\data\v310\forgot_password; Tid: 0.00 sekunder
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\forgot_password.
+[DEBUG] Installerar Data: \phpbb\db\migration\data\v310\forgot_password.
+[INFO] Installerad Data: \phpbb\db\migration\data\v310\forgot_password; Tid: 0.00 sekunder
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\mod_rewrite.
+[DEBUG] Installerar Schema: \phpbb\db\migration\data\v310\mod_rewrite.
+[INFO] Installerat Schema: \phpbb\db\migration\data\v310\mod_rewrite; Tid: 0.00 sekunder
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\mod_rewrite.
+[DEBUG] Installerar Data: \phpbb\db\migration\data\v310\mod_rewrite.
+[INFO] Installerad Data: \phpbb\db\migration\data\v310\mod_rewrite; Tid: 0.00 sekunder
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\mysql_fulltext_drop.
+[DEBUG] Förflyttningen är redan installerad (skipped): \phpbb\db\migration\data\v310\mysql_fulltext_drop
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\namespaces.
+[DEBUG] Installerar Schema: \phpbb\db\migration\data\v310\namespaces.
+[INFO] Installerat Schema: \phpbb\db\migration\data\v310\namespaces; Tid: 0.00 sekunder
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\namespaces.
+[DEBUG] Installerar Data: \phpbb\db\migration\data\v310\namespaces.
+[INFO] Installerad Data: \phpbb\db\migration\data\v310\namespaces; Tid: 0.00 sekunder
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\notifications_cron.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\notifications.
+[DEBUG] Installerar Schema: \phpbb\db\migration\data\v310\notifications.
+[INFO] Installerat Schema: \phpbb\db\migration\data\v310\notifications; Tid: 0.03 sekunder
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\notifications_cron.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\notifications.
+[DEBUG] Installerar Data: \phpbb\db\migration\data\v310\notifications.
+[INFO] Installerad Data: \phpbb\db\migration\data\v310\notifications; Tid: 0.03 sekunder
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\notifications_cron.
+[DEBUG] Installerar Schema: \phpbb\db\migration\data\v310\notifications_cron.
+[INFO] Installerat Schema: \phpbb\db\migration\data\v310\notifications_cron; Tid: 0.00 sekunder
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\notifications_cron.
+[DEBUG] Installerar Data: \phpbb\db\migration\data\v310\notifications_cron.
+[INFO] Installerad Data: \phpbb\db\migration\data\v310\notifications_cron; Tid: 0.00 sekunder
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\notification_options_reconvert.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\notifications_schema_fix.
+[DEBUG] Installerar Schema: \phpbb\db\migration\data\v310\notifications_schema_fix.
+[INFO] Installerat Schema: \phpbb\db\migration\data\v310\notifications_schema_fix; Tid: 0.04 sekunder
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\notification_options_reconvert.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\notifications_schema_fix.
+[DEBUG] Installerar Data: \phpbb\db\migration\data\v310\notifications_schema_fix.
+[INFO] Installerad Data: \phpbb\db\migration\data\v310\notifications_schema_fix; Tid: 0.00 sekunder
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\notification_options_reconvert.
+[DEBUG] Installerar Schema: \phpbb\db\migration\data\v310\notification_options_reconvert.
+[INFO] Installerat Schema: \phpbb\db\migration\data\v310\notification_options_reconvert; Tid: 0.00 sekunder
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\notification_options_reconvert.
+[DEBUG] Installerar Data: \phpbb\db\migration\data\v310\notification_options_reconvert.
+[INFO] Installerad Data: \phpbb\db\migration\data\v310\notification_options_reconvert; Tid: 0.03 sekunder
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\plupload.
+[DEBUG] Installerar Schema: \phpbb\db\migration\data\v310\plupload.
+[INFO] Installerat Schema: \phpbb\db\migration\data\v310\plupload; Tid: 0.00 sekunder
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\plupload.
+[DEBUG] Installerar Data: \phpbb\db\migration\data\v310\plupload.
+[INFO] Installerad Data: \phpbb\db\migration\data\v310\plupload; Tid: 0.00 sekunder
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\signature_module_auth.
+[DEBUG] Förflyttningen är redan installerad (skipped): \phpbb\db\migration\data\v310\signature_module_auth
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\softdelete_mcp_modules.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\softdelete_p2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\softdelete_p1.
+[DEBUG] Installerar Schema: \phpbb\db\migration\data\v310\softdelete_p1.
+[INFO] Installerat Schema: \phpbb\db\migration\data\v310\softdelete_p1; Tid: 6.27 sekunder
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\softdelete_mcp_modules.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\softdelete_p2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\softdelete_p1.
+[DEBUG] Installerar Data: \phpbb\db\migration\data\v310\softdelete_p1.
+[INFO] Installerad Data: \phpbb\db\migration\data\v310\softdelete_p1; Tid: 0.85 sekunder
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\softdelete_mcp_modules.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\softdelete_p2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\softdelete_p1.
+[DEBUG] Installerar Data: \phpbb\db\migration\data\v310\softdelete_p1.
+[INFO] Installerad Data: \phpbb\db\migration\data\v310\softdelete_p1; Tid: 0.04 sekunder
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location_cleanup.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_location.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\profilefield_types.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha2.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\alpha1.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\softdelete_mcp_modules.
+[DEBUG] Tillämnpa beroende av \phpbb\db\migration\data\v310\softdelete_p2.
+[DEBUG] Installerar Schema: \phpbb\db\migration\data\v310\softdelete_p2.
+[INFO] Installerat Schema: \phpbb\db\migration\data\v310\softdelete_p2; Tid: 2.40 sekunder

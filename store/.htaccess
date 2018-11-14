@@ -1,0 +1,13 @@
+<Files *>
+	# BEGIN LOOPIA APACHE 2.4
+	<IfModule mod_version.c>
+		<IfVersion < 2.4>
+			Order Allow,Deny
+			Deny from All
+		</IfVersion>
+		<IfVersion >= 2.4>
+			Require all denied
+		</IfVersion>
+	</IfModule>
+	# END LOOPIA APACHE 2.4
+</Files>
